@@ -15,6 +15,11 @@ https://www.acmicpc.net/
 삼성소프트웨어 익스퍼트 아카데미, 프로그래머즈, 코드시그널 등 알고리즘 문제 풀이.
 ```
 
+## study_html_game
+```
+html5 + javascript로 게임 프로잭트 만들기
+```
+
 ## study_tobyspring
 ```
 토비의 스프링 vol.1, vol.2 공부
