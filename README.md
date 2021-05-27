@@ -49,58 +49,67 @@ https://www.acmicpc.net/
 java
 ```
 
-### study_javascript
-[자바스크립트 스터디](https://github.com/chunkind/study_javascript).
+### [study_javascript](https://github.com/chunkind/study_javascript).
 ```
+자바스크립트 스터디
+
 javascript
 ```
 
-### study_html_game
-[웹 게임 개발 스터디](https://github.com/chunkind/study_html_game).
+### [study_html_game](https://github.com/chunkind/study_html_game).
 ```
+웹 게임 개발 스터디
+
 html5 + javascript로 게임 프로잭트 만들기
 
 javascript, html5, css3
 ```
 
-### study_react_redux
-[리액트 리덕스 스터디](https://github.com/chunkind/study_react_redux).
+### [study_react_redux](https://github.com/chunkind/study_react_redux).
 ```
+리액트 리덕스 스터디
+
 javascript, redux
 ```
 
-### study_react
-[리액트 스터디](https://github.com/chunkind/study_react).
+### [study_react](https://github.com/chunkind/study_react).
 ```
+리액트 스터디
+
 javascript, react
 ```
 
-### study_redux
-[리덕스 스터디](https://github.com/chunkind/study_redux).
+### [study_redux](https://github.com/chunkind/study_redux).
 ```
+리덕스 스터디
+
 javascript, redux
 ```
 
-### study_vuejs
-[vue js 스터디](https://github.com/chunkind/study_vuejs).
+### [study_vuejs](https://github.com/chunkind/study_vuejs).
 ```
+vue js 스터디
+
 javascript, vuejs
 ```
 
-### study_select_box_perform_test
-[샐랙트 박스 성능 업그레이드 스터디](https://github.com/chunkind/study_select_box_perform_test).
+### [study_select_box_perform_test](https://github.com/chunkind/study_select_box_perform_test).
 ```
+샐랙트 박스 성능 업그레이드 스터디
+
 javascript
 ```
 
-### study_tobyspring
-[토비의 스프링 스터디](https://github.com/chunkind/study_tobyspring).
+### [study_tobyspring](https://github.com/chunkind/study_tobyspring).
 ```
+토비의 스프링 스터디
+
 java, spring
 ```
 
-### study_dev
-[오프라인 스터디(자바스크립트)](https://github.com/chunkind/study_dev).
+### [study_dev](https://github.com/chunkind/study_dev).
 ```
+오프라인 스터디(자바스크립트)
+
 javascript
 ```
