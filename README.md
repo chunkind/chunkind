@@ -36,9 +36,10 @@ java, jsp, spring, javascript, jquery, oracle, ibatis
 
 ## study
 
-### study_algorism
-[알고리즘 개인 스터디](https://github.com/chunkind/study_algorism).
+### [study_algorism](https://github.com/chunkind/study_algorism).
 ```
+알고리즘 개인 스터디
+
 https://swexpertacademy.com/main/main.do
 https://programmers.co.kr/
 https://codesignal.com/
