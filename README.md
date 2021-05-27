@@ -1,10 +1,21 @@
-### Introduce My repogitory
+#### repository 소개
+
+### Side Project
 
 ## ck_world
 ```
 http://chunkind.com/
 개인 홈페이지
 ```
+
+## octopus-server
+```
+옥토퍼스 프로잭트.
+영어 단어 학습 프로그램 : 서버
+```
+
+
+### study
 
 ## study_algorism
 ```
