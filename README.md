@@ -6,24 +6,32 @@
 ```
 http://chunkind.com/
 개인 홈페이지
+
+java, jsp, spring, javascript, jquery, mariadb, mybatis, JUnit, TDD
 ```
 
 ### octopus-server
 ```
 옥토퍼스 프로잭트.
 영어 단어 학습 프로그램 : 서버
+
+java, spring-boot, mybatis, mariadb
 ```
 
 ### hangang
 ```
 한강 프로잭트.
 쇼핑몰 싸이트.
+
+java, jsp, spring, javascript, jquery, oracle, mybatis
 ```
 
 ### newch, ck_choorining
 ```
 츄리닝 프로잭트 리뉴얼.
 스포츠 커뮤니티 싸이트.
+
+java, jsp, spring, javascript, jquery, oracle, ibatis
 ```
 
 ## study
@@ -35,44 +43,62 @@ https://programmers.co.kr/
 https://codesignal.com/
 https://www.acmicpc.net/
 삼성소프트웨어 익스퍼트 아카데미, 프로그래머즈, 코드시그널 등 알고리즘 문제 풀이.
+
+java
 ```
 
 ### study_javascript
 ```
 자바스크립트 스터디
+
+javascript
 ```
 
 ### study_html_game
 ```
 html5 + javascript로 게임 프로잭트 만들기
+
+javascript, html5, css3
 ```
 
 ### study_react_redux
 ```
 리액트 리덕스 스터디
-```
 
-### study_react
-```
-리덕스 스터디
+javascript, redux
 ```
 
 ### study_react
 ```
 리액트 스터디
+
+javascript, react
+```
+
+### study_redux
+```
+리덕스 스터디
+
+javascript, redux
 ```
 
 ### study_vuejs
 ```
 vue js 스터디
+
+javascript, vuejs
 ```
 
 ### study_tobyspring
 ```
 토비의 스프링 vol.1, vol.2 공부
+
+java, spring
 ```
 
 ### study_dev
 ```
-오프라인 스터디(자바스크립트, 자바)
+오프라인 스터디(자바스크립트)
+
+javascript
 ```
