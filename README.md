@@ -29,11 +29,14 @@ java, spring-boot, mybatis, mariadb
 java, jsp, spring, javascript, jquery, oracle, mybatis
 ```
 
-### newch, choorining
+### choorining, newch
 ```
 choorining
 츄리닝 프로잭트.
 스포츠 커뮤니티 싸이트.
+
+*SKILL
+tomcat 8.5, java 8, oracle 11g, spring 3.2, javascript, jquery, jsp, ibatis
 
 newch
 츄리닝 프로잭트 리뉴얼.
