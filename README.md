@@ -142,3 +142,11 @@ java, spring
 *SKILL
 javascript
 ```
+
+### [study_java](https://github.com/chunkind/study_java)
+```
+자바 강의
+
+*SKILL
+java
+```
