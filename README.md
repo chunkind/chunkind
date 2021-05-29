@@ -87,6 +87,14 @@ javascript, html5, css3
 C#
 ```
 
+### [study_react_management_systeam](https://github.com/chunkind/study_react_management_systeam)
+```
+리액트 학습후 만들어본 토이프로잭트
+
+*SKILL
+javascript, react
+```
+
 ### [study_react_redux](https://github.com/chunkind/study_react_redux)
 ```
 리액트 리덕스 스터디
@@ -141,6 +149,14 @@ java, spring
 
 *SKILL
 javascript
+```
+
+### [study_jdbc](https://github.com/chunkind/study_jdbc)
+```
+java jdbc 스터디
+
+*SKILL
+java, jdbc
 ```
 
 ### [study_java](https://github.com/chunkind/study_java)
