@@ -151,6 +151,14 @@ java, spring
 javascript
 ```
 
+### [study_servlet](https://github.com/chunkind/study_servlet)
+```
+servlet 스터디
+
+*SKILL
+java, servlet, jsp
+```
+
 ### [study_jdbc](https://github.com/chunkind/study_jdbc)
 ```
 java jdbc 스터디
