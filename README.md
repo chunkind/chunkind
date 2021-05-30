@@ -151,26 +151,30 @@ java, spring
 javascript
 ```
 
+### [study_spring](https://github.com/chunkind/study_spring)
+```
+spring 스터디 강의 자료
+
+java, servlet, jsp, spring
+```
+
 ### [study_servlet](https://github.com/chunkind/study_servlet)
 ```
-servlet 스터디
+servlet 스터디 강의 자료
 
-*SKILL
 java, servlet, jsp
 ```
 
 ### [study_jdbc](https://github.com/chunkind/study_jdbc)
 ```
-java jdbc 스터디
+java jdbc 스터디 강의 자료
 
-*SKILL
 java, jdbc
 ```
 
 ### [study_java](https://github.com/chunkind/study_java)
 ```
-자바 강의
+자바 스터디 강의 자료
 
-*SKILL
 java
 ```
