@@ -7,7 +7,7 @@
 http://chunkind.com/
 개인 홈페이지
 
-*SKILL
+*Tag
 java, jsp, spring, javascript, jquery, mariadb, mybatis, JUnit, TDD
 ```
 
@@ -16,7 +16,7 @@ java, jsp, spring, javascript, jquery, mariadb, mybatis, JUnit, TDD
 옥토퍼스 프로잭트.
 영어 단어 학습 프로그램 : 서버
 
-*SKILL
+*Tag
 java, spring-boot, mybatis, mariadb
 ```
 
@@ -25,7 +25,7 @@ java, spring-boot, mybatis, mariadb
 한강 프로잭트.
 쇼핑몰 싸이트.
 
-*SKILL
+*Tag
 java, jsp, spring, javascript, jquery, oracle, mybatis
 ```
 
@@ -35,13 +35,13 @@ choorining
 츄리닝 프로잭트.
 스포츠 커뮤니티 싸이트.
 
-*SKILL
+*Tag
 tomcat 8.5, java 8, oracle 11g, spring 3.2, javascript, jquery, jsp, ibatis
 
 newch
 츄리닝 프로잭트 리뉴얼.
 
-*SKILL
+*Tag
 java, jsp, spring, javascript, jquery, oracle, ibatis
 ```
 
@@ -57,7 +57,7 @@ https://codesignal.com/
 https://www.acmicpc.net/
 삼성소프트웨어 익스퍼트 아카데미, 프로그래머즈, 코드시그널 등 알고리즘 문제 풀이.
 
-*SKILL
+*Tag
 java
 ```
 
@@ -65,7 +65,7 @@ java
 ```
 자바스크립트 스터디
 
-*SKILL
+*Tag
 javascript
 ```
 
@@ -75,7 +75,7 @@ javascript
 
 html5 + javascript로 게임 프로잭트 만들기
 
-*SKILL
+*Tag
 javascript, html5, css3
 ```
 
@@ -83,7 +83,7 @@ javascript, html5, css3
 ```
 씨 샵 게임 프로그래밍 스터디
 
-*SKILL
+*Tag
 C#
 ```
 
@@ -91,7 +91,7 @@ C#
 ```
 리액트 학습후 만들어본 토이프로잭트
 
-*SKILL
+*Tag
 javascript, react
 ```
 
@@ -99,7 +99,7 @@ javascript, react
 ```
 리액트 리덕스 스터디
 
-*SKILL
+*Tag
 javascript, redux
 ```
 
@@ -107,7 +107,7 @@ javascript, redux
 ```
 리액트 스터디
 
-*SKILL
+*Tag
 javascript, react
 ```
 
@@ -115,7 +115,7 @@ javascript, react
 ```
 리덕스 스터디
 
-*SKILL
+*Tag
 javascript, redux
 ```
 
@@ -123,7 +123,7 @@ javascript, redux
 ```
 vue js 스터디
 
-*SKILL
+*Tag
 javascript, vuejs
 ```
 
@@ -131,7 +131,7 @@ javascript, vuejs
 ```
 샐랙트 박스 성능 업그레이드 스터디
 
-*SKILL
+*Tag
 javascript
 ```
 
@@ -139,7 +139,7 @@ javascript
 ```
 토비의 스프링 스터디
 
-*SKILL
+*Tag
 java, spring
 ```
 
@@ -147,7 +147,7 @@ java, spring
 ```
 오프라인 스터디(자바스크립트)
 
-*SKILL
+*Tag
 javascript
 ```
 
@@ -155,6 +155,7 @@ javascript
 ```
 spring 스터디 강의 자료
 
+*Tag
 java, servlet, jsp, spring
 ```
 
@@ -162,6 +163,7 @@ java, servlet, jsp, spring
 ```
 servlet 스터디 강의 자료
 
+*Tag
 java, servlet, jsp
 ```
 
@@ -169,6 +171,7 @@ java, servlet, jsp
 ```
 java jdbc 스터디 강의 자료
 
+*Tag
 java, jdbc
 ```
 
@@ -176,5 +179,6 @@ java, jdbc
 ```
 자바 스터디 강의 자료
 
+*Tag
 java
 ```
